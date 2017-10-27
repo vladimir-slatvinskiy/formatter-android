@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Formater</string>
+    <string name="action_settings">Settings</string>
+    <string name="error">Something went wrong!</string>
+    <string name="string_1">Set test string 1</string>
+    <string name="string_2">Set test string 2</string>
+    <string name="string_3">My string</string>
+    <string name="test_string_1">with its powerful tools and dazzling effects,Keynote makes it Easy to create stunning and memorable presentations. </string>
+    <string name="test_string_2">See Who you ’re working with ... While you’re editing, a separate list lets you quickly see who else is in the presentation.</string>
+    <string name="test_string_3">hI    theRe  !! !?can We   do SomethinG with it ?and more .   ..!there IS my device!Take it easy,be happy and    Have a fun ! Test ,Commas , here.You  ’re so    happy .</string>
+    <string name="formatted_string">Formatted text:</string>
+    <string name="your_string">Your text:</string>
+</resources>
